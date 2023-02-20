@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **React,Vue**
 
-- 💬 Ask me about **PHP,laravel,Javascript**
+- 💬 Ask me about **PHP,laravel,Javascript,Vue,Tailwind**
 
 - 📫 How to reach me **safzahidul.cse@gmail.com**
