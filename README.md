@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on **Kemedar and WorkFortBD**
 
-- 🌱 I’m currently learning **React,Vue**
+- 🌱 I’m currently learning **ReactJS,NextJS,TypeScript**
 
-- 💬 Ask me about **PHP,laravel,Javascript,Vue,Tailwind**
+- 💬 Ask me about **PHP,Laravel,Javascript,VueJS,Tailwind**
 
 - 📫 How to reach me **safzahidul.cse@gmail.com**
