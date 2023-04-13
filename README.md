@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fexdvers and WorkFortBD**
 
-- 🌱 I’m currently learning **ReactJS,NextJS,TypeScript**
+- 🌱 I’m currently learning **Redux,NextJS,TypeScript**
 
 - 💬 Ask me about **PHP,Laravel,Javascript,VueJS,Tailwind**
 
