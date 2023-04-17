@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **Redux,NextJS,TypeScript**
 
-- 💬 Ask me about **PHP,Laravel,Javascript,VueJS,Tailwind**
+- 💬 Ask me about **Tailwind,PHP,Laravel,Javascript,VueJS & ReactJS**
 
 - 📫 How to reach me **safzahidul.cse@gmail.com**
