@@ -4,7 +4,7 @@
   <img align="right" width="400" src="https://i.ibb.co/YkbDd3Q/Zij-Img.jpg" alt="Zij">
 </a>
 
-- 🔭 I’m currently working on **Composepro**
+- 🔭 I’m currently working on **CodeMoly**
 
 - 🌱 I’m currently learning **Redux,NextJS,TypeScript**
 
